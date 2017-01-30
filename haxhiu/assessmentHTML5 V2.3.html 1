@@ -1,0 +1,85 @@
+<!doctype html>
+<head>
+  <meta charset="utf-8">
+  <title>Football</title>
+  <meta name="description" content="Welcome to my Football website.">
+  <style>
+	#header {
+		background-color:Red;
+		color:white;
+		text-align:center;
+		padding:5px;
+	}
+	#nav {
+		line-height:30px;
+		background-color:White;
+		height:300px;
+		width:100px;
+		float:left;
+		padding:5px; 
+	}
+	#header {background-color: Red; text-align:center;}
+#nav {background-color: Red;
+height:300px;
+width:100px;
+float:left;
+}
+	#section {
+		width:350px;
+		float:left;
+		padding:10px; 
+	}
+	#footer {
+		background-color:red;
+		color:white;
+		clear:both;
+		text-align:center;
+		padding:5px; 
+	}
+	</style>
+</head>
+ 
+<body>
+
+<div id="header">
+<h1>Football Facts</h1>
+</div>
+
+<div id="nav">
+Arsenal<br><a href="assessmentHTML5 V2.2.html">Arsenal</a>
+Chelsea<br>
+Barselona<br>
+</div>
+
+<div id="section">
+<h1>Fun Facts</h1>
+<p>
+Football originated in China around 476 B.C.
+Football is the most played and most watched sport on earth.
+Football is the most popular sport in the world. ...
+The largest Football tournament saw no less than 5,098 teams. ...
+The maximum number of goals scored by one player in a single Football match was 16.
+</p>
+<p>
+More than 80% of the world’s footballs are manufactured in Pakistan.
+</p>
+<p>
+The first live coverage of a football match was shown on television in 1937. It was a practice match Arsenal played at Highbury stadium.
+</p>
+A total of 20 red cards were shown in a match played between Sportivo Ameliano and General Caballero in Paraguay.
+<p>
+In 1978, Manchester United manager, Sir Alex Ferguson was fired for swearing at a lady.
+</p>
+Ryan Giggs' (of Manchester United) dad was a professional Rugby League player.
+</p>
+</div>
+
+<div id="footer">
+Some information here
+</div>
+
+</body>
+</html>
+
+
+<body Background="http://elenasentertainmentnews.weebly.com/uploads/6/1/8/2/61823921/4120777_orig.png">
